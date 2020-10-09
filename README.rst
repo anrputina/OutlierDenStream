@@ -5,4 +5,4 @@ OutlierDenStream
 DEPRECATED!
 ======
 
-Please use https://github.com/anrputina/ods
+Please use https://github.com/anrputina/oadds
